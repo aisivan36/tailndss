@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
   "devDependencies": {
     "install": "^0.13.0",
     "tailwindcss": "^3.2.4"
